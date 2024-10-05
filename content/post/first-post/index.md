@@ -1,6 +1,6 @@
 +++
 author = "Ally"
-title = "Il mio primo post di gomma pane!!!"
+title = "Il mio primo lavoro con la gomma pane!"
 date = "2024-10-04"
 description = "Faccio qualche prova per vedere se riesco ad inserire un articolo!"
 tags = [
@@ -10,7 +10,7 @@ tags = [
     "themes",
 ]
 categories = [
-    "lavoretti",
+    "Lavoretti",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
@@ -19,6 +19,8 @@ image = "gommapane.jpg"
 
 <!--introduzione-->
 Con questo articolo voglio imparare a scrivere un post completo, inserendo quanti piu' markdown possibili, foto, video... tutto quello che si può inserire! O meglio, che il tema permette di inserire.
+
+Qui possiamo scrivere tutto quello che ci pare...
 
 <!--corpo del testo-->
 ## Headings

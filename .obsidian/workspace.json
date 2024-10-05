@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Built with Hugo\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,5 +156,10 @@
     }
   },
   "active": "28a54580ff734d5f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/post/first-post/gommapane.jpg",
+    "content/post/first-post/index.md",
+    "content/page/about/index.md",
+    "themes/stack/exampleSite/content/page/about/index.md"
+  ]
 }
