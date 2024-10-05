@@ -1,6 +1,6 @@
 +++
 author = "Ally"
-title = "Il mio primo post di gomma pane!"
+title = "Il mio primo post di gomma pane!!!"
 date = "2024-10-04"
 description = "Faccio qualche prova per vedere se riesco ad inserire un articolo!"
 tags = [
