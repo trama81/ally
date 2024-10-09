@@ -18,7 +18,7 @@ image = "gommapane.jpg"
 +++
 
 <!--introduzione-->
-Frase nuova, per fare una prova! :)
+Ciao a tutti :)
 
 Con questo articolo voglio imparare a scrivere un post completo, inserendo quanti piu' markdown possibili, foto, video... tutto quello che si può inserire! O meglio, che il tema permette di inserire.
 
